@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    color: #631d1f;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: Vero;
+}
+p{
+    color: white;
+    font-size: x-large;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#imgpog{
+    width: 650px;
+    height: 750px;
+    border-color: azure;
+    border-style: solid;
+    border-width: 5px;
+}
+#imagemdesfecho{
+    width: 1950px;
+    height: 850px;
+    border-style: none;
+}
+
+#Titulos{
+    text-shadow:2px 2px 5px whitesmoke;
+    font-size: 75px;
+    color: darkred;
+    border-color: aliceblue;
+    border-style: groove;
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
+audio{
+    width: 50%;
+    height: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    align-content: center;
+    display: block;
+    margin: auto;
+}
